@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Uday Kiran</h1>
+<p align="center">
+  🚀 Passionate C Programmer | 👨‍💻 Future Software Developer<br>
+  🎯 Learning Data Structures | ❤️ Building cool stuff in C
+</p>
 
-<!--
-**uday-55/uday-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 4th Semester CSE Student  
+- 💻 Love solving problems with C & understanding how things work under the hood  
+- 🔨 Currently building: **Banking System** and **Student Management System** in C  
+- 📈 Growing my GitHub, learning Git, and building projects  
+
+---
+
+## 🚀 My Projects
+
+### 📌 [Banking Management System](https://github.com/uday-55/banking-system)
+```c
+Language   : C  
+Concepts   : File I/O, Structs  
+Features   : Create Account, Deposit, Withdraw, View Accounts
+📂 Check out the repo and run it using gcc!
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uday-55&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday-55&layout=compact&theme=radical" height="150"/> </p>
+
+🌱 Currently Learning
+🔁 Data Structures in C
+
+💾 File I/O operations
+
+🌐 GitHub Workflows, Actions, Markdown
+
+📫 Connect with Me
+GitHub: @uday-55
+
+📍 Based in India | Open to collaboration!
+
+⭐ Thanks for visiting! Star my repos to support 😊

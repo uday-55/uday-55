@@ -40,3 +40,8 @@ GitHub: @uday-55
 📍 Based in India | Open to collaboration!
 
 ⭐ Thanks for visiting! Star my repos to support 😊
+
+## 🐍 Contribution Graph Snake Animation
+
+![snake gif](https://github.com/uday-55/uday-55/blob/output/github-contribution-grid-snake.svg)
+

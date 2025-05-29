@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Uday Kiran</h1>
+<h1 align="center">Hey there 👋, I'm Uday Karri</h1>
 <p align="center">
   🚀 Passionate C Programmer | 👨‍💻 Future Software Developer<br>
   🎯 Learning Data Structures | ❤️ Building cool stuff in C

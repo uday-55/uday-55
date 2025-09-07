@@ -1,16 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Uday Karri</h1>
 <p align="center">
-  🚀 Passionate C/C++ Programmer | 👨‍💻 Future Software Developer<br>
-  🎯 Learning Data Structures | ❤️ Building cool stuff in C
+  🚀 C/C++ Programmer | 👨‍💻 Future Software Developer
+  🎯 DS & Algorithms | 🤖 ML Learner | ❤️ Building Innovative Projects
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 4th Semester CSE Student  
+- 🎓 5th Semester CSE Student  
 - 💻 Love solving problems with C & understanding how things work under the hood  
-- 🔨 Currently building: **Banking System** and **Student Management System** in C  
+- 🔨 Currently building: **Banking System** and **Student Management System** in C
+- 🤖 ML Side Projects: Handwritten Digit Recognition, Data Narrator  
 - 📈 Growing my GitHub, learning Git, and building projects  
 
 ---
